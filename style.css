@@ -1,0 +1,24 @@
+.container {
+  box-shadow: 38px 21px 35px -7px rgba(0, 0, 0, 0.75);
+
+  background: linear-gradient(to top, #cf78c1 34%, #8fb7cf 96%);
+  max-width: 500px;
+  margin: 3rem;
+  margin-bottom: 50px;
+  padding: 1rem;
+  /* text-align: center; */
+}
+.beer {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+body{
+    background-color: rgb(204, 236, 236);
+}
+
+.searchme{
+    position:absolute;
+    top: 0%;
+}
